@@ -38,7 +38,7 @@ class SirajAdil:
     def skills(self):
         return [
             "Java", "Python", "SQL",
-            "Node.js", "Express.js", "Flask",
+            "Spring Boot", "Node.js", "Flask",
             "React", "Next.js", "Docker"
         ]
 
@@ -52,7 +52,7 @@ def achievements(self):
     return [
         "AIR 255 - GATE 2022 (Engineering Sciences)",
         "350+ problems solved on GeeksforGeeks",
-        "250+ problems solved on LeetCode"
+        "300+ problems solved on LeetCode"
     ]
 
     def motto(self):
@@ -60,7 +60,7 @@ def achievements(self):
 ```
 
 ### 🧠 Passionate about building scalable  systems & full-stack applications 
-### 🛠️ Skilled in Python, Java, SQL, Node.js, Express.js, Flask, React, Next.js, Docker  
+### 🛠️ Skilled in Python, Java, SQL, Spring Boot, Node.js, Express.js, Flask, React, Next.js, Docker  
 ### 🧪 Experience at **Ola Electric** & **HSBC**  
 ### 🏅 AIR 255 - GATE 2022 (Engineering Sciences)
 ### 📈 250+ on LeetCode & 350+ DSA problems on GeeksForGeeks
@@ -75,15 +75,15 @@ def achievements(self):
 
 ### 💻 Languages & Frameworks
 
-![My Skills](https://skillicons.dev/icons?i=java,python,cpp,mysql,mongodb,html,css,js,nodejs,express,flask,react,nextjs,styledcomponents,tailwind)
+![My Skills](https://skillicons.dev/icons?i=java,python,cpp,mysql,mongodb,html,css,js,spring,hibernate,nodejs,express,flask,react,nextjs,tailwind&perline=8)
 
 ### 🛠️ Tools & Technologies
 
-![Tools](https://skillicons.dev/icons?i=docker,vscode,idea,postman,git,github,supabase,npm,vite,anaconda,linux)
+![Tools](https://skillicons.dev/icons?i=docker,vscode,idea,postman,git,github,supabase,maven,npm,vite,anaconda,linux)
 
 ### 📚 Currently Learning
 
-![Learning](https://skillicons.dev/icons?i=redis,typescript,kubernetes,graphql,spring)
+![Learning](https://skillicons.dev/icons?i=redis,typescript,kubernetes,graphql)
 
 ### 🎨 Animated Tech Icons
 
@@ -91,6 +91,8 @@ def achievements(self):
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=black)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF&labelColor=000000)
@@ -176,6 +178,50 @@ Fast React Pizza is a React app for ordering pizzas online. Users can browse, se
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📊 Operations Research & Optimization Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 CSDVRP – Split Delivery Vehicle Routing
+[![CSDVRP](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/Siraj-Adil/Capacitated-VRP-with-Split-Delivery)
+
+Optimization model for the **Capacitated Split Delivery Vehicle Routing Problem (CSDVRP)** applied to urban logistics in **Varanasi**. The project formulates the routing problem as a **Mixed Integer Linear Program (MILP)** and computes optimal multi-vehicle routes with split deliveries.
+
+**Tech Stack:** Python, PuLP, Gurobi, Pandas, Matplotlib
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PuLP](https://img.shields.io/badge/PuLP-FFD43B?style=flat-square&logo=python&logoColor=black)
+![Gurobi](https://img.shields.io/badge/Gurobi-EE3524?style=flat-square&logo=gurobi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 CFLP – Capacitated Facility Location
+[![CFLP](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/Siraj-Adil/CFLP)
+
+Optimization framework for solving the **Capacitated Facility Location Problem (CFLP)** to determine optimal warehouse placement and shipment flows across **31 regions in India**.
+
+**Tech Stack:** Python, MILP, CBC Solver, Gurobi, Pandas, GeoPandas, Matplotlib
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MILP](https://img.shields.io/badge/MILP-Optimization-blue?style=flat-square)
+![CBC](https://img.shields.io/badge/CBC_Solver-FF6F00?style=flat-square)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
 </td>
 </tr>
